@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mobile/!svn/ver/35288/JWapp-ios/JWApp/JWApp/JWApp/3rd/SQLitePersistentObjects
+END
+UIImage-SQLitePersistence.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/mobile/!svn/ver/27464/JWapp-ios/JWApp/JWApp/JWApp/3rd/SQLitePersistentObjects/UIImage-SQLitePersistence.m
+END
+NSString-UppercaseFirst.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/mobile/!svn/ver/27464/JWapp-ios/JWApp/JWApp/JWApp/3rd/SQLitePersistentObjects/NSString-UppercaseFirst.h
+END
+SQLitePersistentObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/mobile/!svn/ver/34743/JWapp-ios/JWApp/JWApp/JWApp/3rd/SQLitePersistentObjects/SQLitePersistentObject.h
+END
+NSString-UppercaseFirst.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/mobile/!svn/ver/27464/JWapp-ios/JWApp/JWApp/JWApp/3rd/SQLitePersistentObjects/NSString-UppercaseFirst.m
+END
+NSString-SQLitePersistence.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/mobile/!svn/ver/27464/JWapp-ios/JWApp/JWApp/JWApp/3rd/SQLitePersistentObjects/NSString-SQLitePersistence.h
+END
+NSObject-ClassName.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/mobile/!svn/ver/27464/JWapp-ios/JWApp/JWApp/JWApp/3rd/SQLitePersistentObjects/NSObject-ClassName.h
+END
+NSObject-SQLitePersistence.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/mobile/!svn/ver/27464/JWapp-ios/JWApp/JWApp/JWApp/3rd/SQLitePersistentObjects/NSObject-SQLitePersistence.h
+END
+SQLitePersistentObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/mobile/!svn/ver/34743/JWapp-ios/JWApp/JWApp/JWApp/3rd/SQLitePersistentObjects/SQLitePersistentObject.m
+END
+NSString-SQLitePersistence.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/mobile/!svn/ver/27464/JWapp-ios/JWApp/JWApp/JWApp/3rd/SQLitePersistentObjects/NSString-SQLitePersistence.m
+END
+NSObject-ClassName.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/mobile/!svn/ver/27464/JWapp-ios/JWApp/JWApp/JWApp/3rd/SQLitePersistentObjects/NSObject-ClassName.m
+END
+NSObject-SQLitePersistence.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/mobile/!svn/ver/27464/JWapp-ios/JWApp/JWApp/JWApp/3rd/SQLitePersistentObjects/NSObject-SQLitePersistence.m
+END
+SQLiteInstanceManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/mobile/!svn/ver/35288/JWapp-ios/JWApp/JWApp/JWApp/3rd/SQLitePersistentObjects/SQLiteInstanceManager.h
+END
+UIColor-SQLitePersistentObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/mobile/!svn/ver/27464/JWapp-ios/JWApp/JWApp/JWApp/3rd/SQLitePersistentObjects/UIColor-SQLitePersistentObject.h
+END
+NSString-SQLiteColumnName.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/mobile/!svn/ver/27464/JWapp-ios/JWApp/JWApp/JWApp/3rd/SQLitePersistentObjects/NSString-SQLiteColumnName.h
+END
+SQLiteInstanceManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/mobile/!svn/ver/35288/JWapp-ios/JWApp/JWApp/JWApp/3rd/SQLitePersistentObjects/SQLiteInstanceManager.m
+END
+UIColor-SQLitePersistentObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/mobile/!svn/ver/27464/JWapp-ios/JWApp/JWApp/JWApp/3rd/SQLitePersistentObjects/UIColor-SQLitePersistentObject.m
+END
+NSMutableData-SQLitePersistence.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/mobile/!svn/ver/27464/JWapp-ios/JWApp/JWApp/JWApp/3rd/SQLitePersistentObjects/NSMutableData-SQLitePersistence.h
+END
+NSString-SQLiteColumnName.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/mobile/!svn/ver/27464/JWapp-ios/JWApp/JWApp/JWApp/3rd/SQLitePersistentObjects/NSString-SQLiteColumnName.m
+END
+NSMutableArray-MultipleSort.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/mobile/!svn/ver/27464/JWapp-ios/JWApp/JWApp/JWApp/3rd/SQLitePersistentObjects/NSMutableArray-MultipleSort.h
+END
+NSMutableData-SQLitePersistence.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/mobile/!svn/ver/27464/JWapp-ios/JWApp/JWApp/JWApp/3rd/SQLitePersistentObjects/NSMutableData-SQLitePersistence.m
+END
+NSNumber-SQLitePersistence.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/mobile/!svn/ver/27464/JWapp-ios/JWApp/JWApp/JWApp/3rd/SQLitePersistentObjects/NSNumber-SQLitePersistence.h
+END
+NSMutableArray-MultipleSort.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/mobile/!svn/ver/27464/JWapp-ios/JWApp/JWApp/JWApp/3rd/SQLitePersistentObjects/NSMutableArray-MultipleSort.m
+END
+NSNumber-SQLitePersistence.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/mobile/!svn/ver/27464/JWapp-ios/JWApp/JWApp/JWApp/3rd/SQLitePersistentObjects/NSNumber-SQLitePersistence.m
+END
+NSString-NumberStuff.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/mobile/!svn/ver/27464/JWapp-ios/JWApp/JWApp/JWApp/3rd/SQLitePersistentObjects/NSString-NumberStuff.h
+END
+NSString-NumberStuff.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/mobile/!svn/ver/27464/JWapp-ios/JWApp/JWApp/JWApp/3rd/SQLitePersistentObjects/NSString-NumberStuff.m
+END
+NSData-SQLitePersistence.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/mobile/!svn/ver/27464/JWapp-ios/JWApp/JWApp/JWApp/3rd/SQLitePersistentObjects/NSData-SQLitePersistence.h
+END
+NSObject-MissingKV.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/mobile/!svn/ver/27464/JWapp-ios/JWApp/JWApp/JWApp/3rd/SQLitePersistentObjects/NSObject-MissingKV.h
+END
+NSDate-SQLitePersistence.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/mobile/!svn/ver/27464/JWapp-ios/JWApp/JWApp/JWApp/3rd/SQLitePersistentObjects/NSDate-SQLitePersistence.h
+END
+NSData-SQLitePersistence.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/mobile/!svn/ver/27464/JWapp-ios/JWApp/JWApp/JWApp/3rd/SQLitePersistentObjects/NSData-SQLitePersistence.m
+END
+UIImage-SQLitePersistence.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/mobile/!svn/ver/27464/JWapp-ios/JWApp/JWApp/JWApp/3rd/SQLitePersistentObjects/UIImage-SQLitePersistence.h
+END
+NSObject-MissingKV.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/mobile/!svn/ver/27464/JWapp-ios/JWApp/JWApp/JWApp/3rd/SQLitePersistentObjects/NSObject-MissingKV.m
+END
+NSDate-SQLitePersistence.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/mobile/!svn/ver/27464/JWapp-ios/JWApp/JWApp/JWApp/3rd/SQLitePersistentObjects/NSDate-SQLitePersistence.m
+END
