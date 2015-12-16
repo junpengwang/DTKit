@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.name         = "DTKit"
 
-  s.version      = "0.0.6"
+  s.version      = "0.0.7"
   
   s.summary      = "My DTKit."
 
@@ -83,7 +83,7 @@ Pod::Spec.new do |s|
   #
 
 
-  s.source       = { :git => "https://github.com/junpengwang/DTKit.git", :tag => "0.0.6" }
+  s.source       = { :git => "https://github.com/junpengwang/DTKit.git", :tag => "0.0.7" }
 
 
 
