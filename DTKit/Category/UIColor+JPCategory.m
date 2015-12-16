@@ -9,7 +9,7 @@
 #import "UIColor+JPCategory.h"
 
 @interface NSString (JP)
-- (NSUInteger)_hexValue;
+- (unsigned long )_hexValue;
 @end
 
 @implementation NSString (JP)
