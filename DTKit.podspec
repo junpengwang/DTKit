@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.name         = "DTKit"
 
-  s.version      = "0.0.8"
+  s.version      = "0.0.9"
   
   s.summary      = "My DTKit."
 
@@ -68,7 +68,7 @@ Pod::Spec.new do |s|
 
 
   s.platform     = :ios
-  s.platform     = :ios, "5.0"
+  s.platform     = :ios, "9.0"
 
   #  When using multiple platforms
   # s.ios.deployment_target = "5.0"
@@ -83,7 +83,7 @@ Pod::Spec.new do |s|
   #
 
 
-  s.source       = { :git => "https://github.com/junpengwang/DTKit.git", :tag => "0.0.8" }
+  s.source       = { :git => "https://github.com/junpengwang/DTKit.git", :tag => "0.0.9" }
 
 
 
