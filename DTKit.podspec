@@ -96,7 +96,7 @@ Pod::Spec.new do |s|
   #
 
 
-  s.source_files  = "DTKit/**/*.{h,m}"
+  s.source_files  = "DTKit/**/*.{h,m,c}"
   #s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
