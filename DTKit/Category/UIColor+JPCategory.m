@@ -13,8 +13,8 @@
 @end
 
 @implementation NSString (JP)
-- (NSUInteger)_hexValue {
-	NSUInteger result = 0;
+- (unsigned long )_hexValue {
+	unsigned long  result = 0;
 	sscanf([self UTF8String], "%lx", &result);
 	return result;
 }
