@@ -15,7 +15,7 @@
 @implementation NSString (JP)
 - (NSUInteger)_hexValue {
 	NSUInteger result = 0;
-	sscanf([self UTF8String], "%x", &result);
+	sscanf([self UTF8String], "%lx", &result);
 	return result;
 }
 @end
@@ -83,7 +83,7 @@
 	
 	// Add alpha
 	if (hex && includeAlpha) {
-		hex = [hex stringByAppendingFormat:@"%02x", (NSUInteger)(self.alpha * 255.0f)];
+		hex = [hex stringByAppendingFormat:@"%02lx", (unsigned long)(self.alpha * 255.0f)];
 	}
 	
 	// Unsupported color space
