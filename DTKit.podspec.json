@@ -1,0 +1,33 @@
+{
+  "name":"DTKit",
+  "version": "0.0.1",
+  "summary": "DTKit 是工作积累 for ios",
+  "description": "工作积累,包括一些通用的方法，控件，通用类等",
+  "homepage": "http://blog.csdn.net/wjpaaa",
+  "license": {
+    "type": "MIT",
+    "text": "https://github.com/junpengwang/DTKit/blob/master/LICENSE"
+    },
+  "authors": {
+    "junpeng": "wang502433648@163.com"
+  },
+  "source": {
+    "git": "https://github.com/junpengwang/DTKit.git",
+    "tag":"s.version.to_s"
+    },
+  "platforms": {
+    "ios": "7.0"
+  },
+
+  "source_files": "DTKit/**/*.{h,m}",
+  "public_header_files": "DTKit/**/*.{h}",
+
+  "frameworks": [
+    "JavaScriptCore"
+    ],
+  "libraries": [
+    "sqlite3"
+  ],
+  "requires_arc": true
+  
+}
