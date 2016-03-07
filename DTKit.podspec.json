@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/junpengwang/DTKit.git",
-    "tag":"s.version.to_s"
+    "tag":"0.0.1"
     },
   "platforms": {
     "ios": "7.0"
