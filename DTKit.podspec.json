@@ -19,7 +19,7 @@
     "ios": "7.0"
   },
 
-  "source_files": "DTKit/**/*.{h,m}",
+  "source_files": "DTKit/**/*.{h,m,c}",
   "public_header_files": "DTKit/**/*.{h}",
 
   "frameworks": [
